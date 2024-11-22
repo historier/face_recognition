@@ -89,3 +89,4 @@ def process_and_save_faces_mtcnn(source_folder, target_folder, img_size=(200, 20
 source_folder = r'F:\\1\\face_recognition\\face_data'   # 原始文件夹路径
 target_folder = r'F:\kpop1'  # 新的目标文件夹路径
 process_and_save_faces_mtcnn(source_folder, target_folder)
+#更高
